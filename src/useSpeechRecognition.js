@@ -4,6 +4,11 @@ const useSpeechRecognition = (onResult) => {
   const [isListening, setIsListening] = useState(false);
   const [error, setError] = useState(null);
   const recognitionRef = useRef(null);
+  
+  const latestOnResult = useRef(onResult);
+  useEffect(() => {
+    latestOnResult.current = onResult;
+  }, [onResult]);
 
   useEffect(() => {
     if (!('webkitSpeechRecognition' in window) && !('SpeechRecognition' in window)) {
@@ -34,7 +39,9 @@ const useSpeechRecognition = (onResult) => {
         }
       }
 
-      onResult({ finalTranscript, interimTranscript });
+      if (latestOnResult.current) {
+        latestOnResult.current({ finalTranscript, interimTranscript });
+      }
     };
 
     recognition.onerror = (event) => {
@@ -56,7 +63,7 @@ const useSpeechRecognition = (onResult) => {
         recognitionRef.current.stop();
       }
     };
-  }, [onResult]);
+  }, []);
 
   const startListening = () => {
     if (recognitionRef.current && !isListening) {
@@ -70,7 +77,12 @@ const useSpeechRecognition = (onResult) => {
 
   const stopListening = () => {
     if (recognitionRef.current && isListening) {
-      recognitionRef.current.stop();
+      try {
+        recognitionRef.current.stop();
+      } catch(err) {
+        console.error(err);
+      }
+      setIsListening(false);
     }
   };
 
