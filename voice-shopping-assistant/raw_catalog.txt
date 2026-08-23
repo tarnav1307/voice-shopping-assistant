@@ -1,0 +1,427 @@
+### 🥦 Fresh Fruits & Vegetables
+
+1. Apples
+2. Bananas
+3. Oranges
+4. Mangoes
+5. Grapes
+6. Watermelon
+7. Papaya
+8. Pineapple
+9. Pomegranate
+10. Guava
+11. Pears
+12. Kiwi
+13. Strawberries
+14. Blueberries
+15. Chikoo
+16. Coconut
+17. Lemon
+18. Limes
+19. Tomatoes
+20. Potatoes
+21. Onions
+22. Garlic
+23. Ginger
+24. Green chilies
+25. Carrots
+26. Beetroot
+27. Radish
+28. Cucumber
+29. Spinach
+30. Coriander
+31. Mint
+32. Cauliflower
+33. Broccoli
+34. Cabbage
+35. Capsicum
+36. Green peas
+37. Okra
+38. Brinjal
+39. Bottle gourd
+40. Bitter gourd
+41. Ridge gourd
+42. Pumpkin
+43. Sweet corn
+44. French beans
+45. Drumsticks
+46. Sweet potato
+47. Lettuce
+48. Mushroom
+49. Curry leaves
+50. Spring onions
+
+### 🍚 Rice, Atta, Flour & Grains
+
+51. Basmati rice
+52. Sona masoori rice
+53. Brown rice
+54. Parboiled rice
+55. Idli rice
+56. Poha
+57. Dalia
+58. Wheat flour
+59. Multigrain atta
+60. Maida
+61. Besan
+62. Ragi flour
+63. Jowar flour
+64. Bajra flour
+65. Corn flour
+66. Rice flour
+67. Semolina/Rava
+68. Quinoa
+69. Barley
+70. Oats
+71. Rolled oats
+72. Vermicelli
+73. Sabudana
+74. Millet
+75. Cornmeal
+
+### 🫘 Pulses, Dal & Beans
+
+76. Toor dal
+77. Moong dal
+78. Moong whole
+79. Masoor dal
+80. Masoor whole
+81. Chana dal
+82. Urad dal
+83. Urad whole
+84. Rajma
+85. Kabuli chana
+86. Kala chana
+87. Lobia
+88. Green peas
+89. Soybeans
+90. Moth beans
+91. Horse gram
+92. Dry white peas
+93. Black-eyed peas
+94. Mixed dal
+
+### 🌶️ Spices & Masalas
+
+95. Turmeric powder
+96. Red chili powder
+97. Coriander powder
+98. Cumin powder
+99. Garam masala
+100. Chaat masala
+101. Kitchen king masala
+102. Pav bhaji masala
+103. Biryani masala
+104. Chicken masala
+105. Meat masala
+106. Sambar powder
+107. Rasam powder
+108. Black pepper
+109. Cumin seeds
+110. Mustard seeds
+111. Fennel seeds
+112. Fenugreek seeds
+113. Ajwain
+114. Cardamom
+115. Cloves
+116. Cinnamon
+117. Bay leaves
+118. Star anise
+119. Asafoetida
+120. Dry red chilies
+
+### 🫙 Oils, Sauces & Condiments
+
+121. Sunflower oil
+122. Mustard oil
+123. Groundnut oil
+124. Coconut oil
+125. Rice bran oil
+126. Olive oil
+127. Ghee
+128. Butter
+129. Tomato ketchup
+130. Green chutney
+131. Red chili sauce
+132. Soy sauce
+133. Schezwan sauce
+134. Mayonnaise
+135. Mustard sauce
+136. Vinegar
+137. Pickle
+138. Mango pickle
+139. Lemon pickle
+140. Mixed vegetable pickle
+141. Peanut butter
+142. Jam
+143. Honey
+144. Chocolate spread
+145. Pasta sauce
+
+### 🥫 Canned & Packaged Foods
+
+146. Canned corn
+147. Canned beans
+148. Canned peas
+149. Canned mushrooms
+150. Baked beans
+151. Tomato puree
+152. Coconut milk
+153. Instant noodles
+154. Cup noodles
+155. Instant pasta
+156. Ready-to-eat dal
+157. Ready-to-eat rajma
+158. Ready-to-eat chole
+159. Ready-to-eat biryani
+160. Instant soup
+161. Papad
+162. Fryums
+163. Roasted papad
+164. Pickled jalapenos
+165. Canned fruit cocktail
+
+### 🍪 Biscuits, Cookies & Bakery
+
+166. Marie biscuits
+167. Glucose biscuits
+168. Cream biscuits
+169. Chocolate biscuits
+170. Digestive biscuits
+171. Salt biscuits
+172. Coconut biscuits
+173. Butter cookies
+174. Oat cookies
+175. Bourbon biscuits
+176. Cookies
+177. Crackers
+178. Bread
+179. Brown bread
+180. Multigrain bread
+181. Burger buns
+182. Hot dog buns
+183. Pav
+184. Croissants
+185. Muffins
+186. Cupcakes
+187. Donuts
+188. Rusk
+189. Khari
+190. Garlic bread
+
+### 🍫 Chocolates & Sweets
+
+191. Milk chocolate
+192. Dark chocolate
+193. White chocolate
+194. Chocolate bars
+195. Chocolate wafers
+196. Chocolate spread
+197. Candy
+198. Lollipops
+199. Toffees
+200. Jelly candies
+201. Gummy bears
+202. Marshmallows
+203. Indian sweets
+204. Gulab jamun
+205. Rasgulla
+206. Soan papdi
+207. Kaju katli
+208. Besan ladoo
+209. Motichoor ladoo
+210. Coconut ladoo
+
+### 🍿 Snacks
+
+211. Potato chips
+212. Banana chips
+213. Nachos
+214. Tortilla chips
+215. Bhujia
+216. Sev
+217. Aloo bhujia
+218. Mixture
+219. Masala peanuts
+220. Salted peanuts
+221. Roasted chana
+222. Roasted makhana
+223. Popcorn
+224. Cheese balls
+225. Kurkure-style snacks
+226. Namkeen
+227. Chakli
+228. Mathri
+229. Samosa
+230. Kachori
+
+### 🥛 Dairy & Refrigerated
+
+231. Full cream milk
+232. Toned milk
+233. Double-toned milk
+234. Curd
+235. Greek yogurt
+236. Flavored yogurt
+237. Buttermilk
+238. Lassi
+239. Paneer
+240. Cheese slices
+241. Cheese cubes
+242. Mozzarella cheese
+243. Cheddar cheese
+244. Cream cheese
+245. Fresh cream
+246. Condensed milk
+247. Milk powder
+248. Custard
+249. Tofu
+250. Eggs
+
+### 🥤 Cold Drinks & Beverages
+
+251. Mineral water
+252. Soda water
+253. Cola
+254. Lemon-lime soda
+255. Orange soft drink
+256. Energy drink
+257. Sports drink
+258. Iced tea
+259. Cold coffee
+260. Fruit juice
+261. Orange juice
+262. Apple juice
+263. Mango juice
+264. Mixed fruit juice
+265. Coconut water
+266. Milkshake
+267. Flavored milk
+268. Green tea
+269. Black tea
+270. Instant coffee
+
+### ☕ Tea & Coffee
+
+271. Assam tea
+272. Darjeeling tea
+273. Masala tea
+274. Green tea bags
+275. Black tea bags
+276. Instant coffee
+277. Ground coffee
+278. Filter coffee
+279. Cappuccino mix
+280. Hot chocolate powder
+281. Coffee creamer
+282. Sugar
+283. Jaggery
+284. Stevia
+285. Drinking chocolate
+
+### 🧊 Frozen Foods
+
+286. Frozen peas
+287. Frozen corn
+288. Frozen mixed vegetables
+289. Frozen French fries
+290. Frozen nuggets
+291. Frozen burger patties
+292. Frozen spring rolls
+293. Frozen samosas
+294. Frozen parathas
+295. Frozen chapati
+296. Frozen pizza
+297. Frozen momos
+298. Frozen kebabs
+299. Frozen fish
+300. Frozen chicken
+301. Frozen ice cream
+302. Ice cream cones
+303. Kulfi
+304. Frozen desserts
+
+### 🧼 Household Cleaning
+
+305. Dishwashing liquid
+306. Dishwashing bar
+307. Dishwasher tablets
+308. Laundry detergent powder
+309. Liquid detergent
+310. Detergent bar
+311. Fabric softener
+312. Bleach
+313. Floor cleaner
+314. Toilet cleaner
+315. Glass cleaner
+316. Kitchen cleaner
+317. Disinfectant
+318. Phenyl
+319. Surface cleaner
+320. Scrub pads
+321. Steel wool
+322. Sponges
+323. Microfiber cloth
+324. Broom
+325. Dustpan
+326. Mop
+327. Garbage bags
+328. Air freshener
+329. Mosquito repellent
+330. Cockroach spray
+
+### 🧴 Personal Care
+
+331. Bath soap
+332. Hand wash
+333. Shampoo
+334. Conditioner
+335. Hair oil
+336. Hair gel
+337. Hair serum
+338. Face wash
+339. Face cream
+340. Moisturizer
+341. Sunscreen
+342. Body lotion
+343. Talcum powder
+344. Deodorant
+345. Perfume
+346. Toothpaste
+347. Toothbrush
+348. Mouthwash
+349. Dental floss
+350. Shaving cream
+351. Razors
+352. Shaving blades
+353. Aftershave
+354. Hand sanitizer
+355. Wet wipes
+356. Cotton buds
+357. Cotton pads
+358. Tissues
+359. Toilet paper
+360. Sanitary pads
+
+### 🧹 General Household & Miscellaneous
+
+361. Aluminum foil
+362. Cling film
+363. Baking paper
+364. Zip-lock bags
+365. Paper plates
+366. Paper cups
+367. Disposable spoons
+368. Disposable forks
+369. Disposable knives
+370. Food storage containers
+371. Water bottles
+372. Lunch boxes
+373. Matchboxes
+374. Candles
+375. Batteries
+376. LED bulbs
+377. Mosquito coils
+378. Sewing kit
+379. Safety pins
+380. Rubber gloves
