@@ -101,33 +101,112 @@ const TRANSLATIONS = {
     noItemsFound: 'Aucun article trouvé.',
     addBtn: '+ Ajouter',
     orderSuccess: '🎉 Commande Passée avec Succès !'
+  },
+  'hi-IN': {
+    brand: 'वॉइस कार्ट',
+    tagline: 'स्मार्ट शॉपिंग असिस्टेंट',
+    listening: 'सुन रहा हूँ...',
+    tapToSpeak: 'बोलने के लिए टैप करें',
+    emptyCart: 'आपकी कार्ट खाली है।\n"2 सेब जोड़ें" बोलकर देखें',
+    swapToOat: 'ओट मिल्क लें? (₹20 बचाएं)',
+    swapBtn: 'बदलें',
+    totalItems: 'कुल आइटम',
+    estTotal: 'अनुमानित बिल',
+    clearCart: 'कार्ट खाली करें',
+    checkout: 'चेकआउट करें',
+    suggestions: '💡 आपके लिए सुझाव',
+    thankYou: 'खरीदारी के लिए धन्यवाद',
+    viewCatalog: 'कैटलॉग देखें 📋',
+    closeCatalog: 'कैटलॉग बंद करें',
+    missingItemsBtn: 'गायब आइटम',
+    catalogTitle: 'पूरा कैटलॉग',
+    notInCatalog: 'कैटलॉग में नहीं है',
+    missingDesc: 'ये आइटम मांगे गए थे लेकिन हमारे पास नहीं हैं।',
+    noMissing: 'कोई गायब आइटम नहीं।',
+    noItemsFound: 'कोई आइटम नहीं मिला।',
+    addBtn: '+ जोड़ें',
+    orderSuccess: '🎉 आर्डर सफलतापूर्वक हो गया!'
+  },
+  'mr-IN': {
+    brand: 'व्हॉइस कार्ट',
+    tagline: 'स्मार्ट शॉपिंग असिस्टंट',
+    listening: 'ऐकत आहे...',
+    tapToSpeak: 'बोलण्यासाठी टॅप करा',
+    emptyCart: 'तुमची कार्ट रिकामी आहे.\n"2 सफरचंद जोडा" बोलून पहा',
+    swapToOat: 'ओट मिल्क घेणार? (₹20 वाचवा)',
+    swapBtn: 'बदला',
+    totalItems: 'एकूण वस्तू',
+    estTotal: 'अंदाजित बिल',
+    clearCart: 'कार्ट रिकामी करा',
+    checkout: 'चेकआउट करा',
+    suggestions: '💡 तुमच्यासाठी सुचवलेले',
+    thankYou: 'खरेदी केल्याबद्दल धन्यवाद',
+    viewCatalog: 'कॅटलॉग पहा 📋',
+    closeCatalog: 'कॅटलॉग बंद करा',
+    missingItemsBtn: 'नसलेल्या वस्तू',
+    catalogTitle: 'संपूर्ण कॅटलॉग',
+    notInCatalog: 'कॅटलॉगमध्ये नाही',
+    missingDesc: 'या वस्तू मागितल्या होत्या पण आमच्याकडे नाहीत.',
+    noMissing: 'कोणतीही नसलेली वस्तू नाही.',
+    noItemsFound: 'काहीही सापडले नाही.',
+    addBtn: '+ जोडा',
+    orderSuccess: '🎉 ऑर्डर यशस्वीरित्या दिली!'
+  },
+  'bho-IN': {
+    brand: 'आवाज कार्ट',
+    tagline: 'स्मार्ट शॉपिंग सहाई',
+    listening: 'सुनत बानी...',
+    tapToSpeak: 'बोले खातिर दबाईं',
+    emptyCart: 'रउवा कार्ट खाली बा।\n"2 गो सेव डालीं" बोल के देखीं',
+    swapToOat: 'ओट मिल्क लीहल जाई? (₹20 बचाईं)',
+    swapBtn: 'बदलीं',
+    totalItems: 'कुल सामान',
+    estTotal: 'कुल बिल',
+    clearCart: 'कार्ट खाली करीं',
+    checkout: 'चेकआउट करीं',
+    suggestions: '💡 रउवा खातिर सुझाव',
+    thankYou: 'खरीदारी खातिर धन्यवाद',
+    viewCatalog: 'कैटलॉग देखीं 📋',
+    closeCatalog: 'कैटलॉग बंद करीं',
+    missingItemsBtn: 'गायब सामान',
+    catalogTitle: 'पूरा कैटलॉग',
+    notInCatalog: 'कैटलॉग में नईखे',
+    missingDesc: 'ई सामान मांगल गइल रहे बाकिर हमनी लगे नईखे।',
+    noMissing: 'कवनो गायब सामान नईखे।',
+    noItemsFound: 'कवनो सामान ना मिलल।',
+    addBtn: '+ डालीं',
+    orderSuccess: '🎉 आर्डर सफल भइल!'
   }
 };
 
 const ITEM_DICTIONARY = {
-  'manzana': 'apple', 'manzanas': 'apple', 'pomme': 'apple', 'pommes': 'apple',
-  'plátano': 'banana', 'bananas': 'banana', 'banane': 'banana', 'bananes': 'banana',
-  'naranja': 'orange', 'naranjas': 'orange', 'oranges': 'orange',
-  'leche': 'milk', 'lait': 'milk',
-  'queso': 'cheese', 'fromage': 'cheese',
-  'mantequilla': 'butter', 'beurre': 'butter',
-  'pan': 'bread', 'pain': 'bread',
-  'agua': 'water', 'eau': 'water',
-  'jugo': 'juice', 'jus': 'juice',
-  'café': 'coffee', 'cafe': 'coffee',
-  'té': 'tea', 'thé': 'tea',
-  'arroz': 'rice', 'riz': 'rice',
-  'azúcar': 'sugar', 'sucre': 'sugar',
-  'cebolla': 'onion', 'oignon': 'onion'
+  'manzana': 'apple', 'manzanas': 'apple', 'pomme': 'apple', 'pommes': 'apple', 'सेब': 'apple', 'सफरचंद': 'apple', 'सेव': 'apple',
+  'plátano': 'banana', 'bananas': 'banana', 'banane': 'banana', 'bananes': 'banana', 'केला': 'banana', 'केळी': 'banana',
+  'naranja': 'orange', 'naranjas': 'orange', 'oranges': 'orange', 'संतरा': 'orange',
+  'leche': 'milk', 'lait': 'milk', 'दूध': 'milk',
+  'queso': 'cheese', 'fromage': 'cheese', 'पनीर': 'cheese',
+  'mantequilla': 'butter', 'beurre': 'butter', 'मक्खन': 'butter', 'लोणी': 'butter',
+  'pan': 'bread', 'pain': 'bread', 'ब्रेड': 'bread', 'पाव': 'bread',
+  'agua': 'water', 'eau': 'water', 'पानी': 'water', 'पाणी': 'water',
+  'jugo': 'juice', 'jus': 'juice', 'जूस': 'juice',
+  'café': 'coffee', 'cafe': 'coffee', 'कॉफी': 'coffee',
+  'té': 'tea', 'thé': 'tea', 'चाय': 'tea', 'चहा': 'tea',
+  'arroz': 'rice', 'riz': 'rice', 'चावल': 'rice', 'तांदूळ': 'rice',
+  'azúcar': 'sugar', 'sucre': 'sugar', 'चीनी': 'sugar', 'साखर': 'sugar',
+  'cebolla': 'onion', 'oignon': 'onion', 'प्याज': 'onion', 'कांदा': 'onion',
+  'papa': 'potato', 'आलू': 'potato', 'बटाटा': 'potato',
+  'tomate': 'tomato', 'टमाटर': 'tomato', 'टोमॅटो': 'tomato'
 };
 
 function parseCommand(text) {
-  const lower = text.toLowerCase().trim();
+  let lower = text.toLowerCase().trim();
   const res = { action: 'unknown', item: '', quantity: 1, maxPrice: null };
   
-  if (lower.startsWith('clear') || lower.startsWith('vaciar') || lower.startsWith('vider')) return { action: 'clear' };
+  if (lower.includes('clear') || lower.includes('vaciar') || lower.includes('vider') || lower.includes('खाली')) {
+    return { action: 'clear' };
+  }
   
-  const searchMatch = lower.match(/^(find|search for|look for|search|buscar|busca|trouver|cherche)\s+(.*?)(?:\s+(under|less than|menos de|moins de)\s+(?:rs\.?|₹)?(\d+(?:\.\d+)?)(?:\s+rupees?|euros?)?)?$/);
+  const searchMatch = lower.match(/^(find|search for|look for|search|buscar|busca|trouver|cherche|खोज|शोध|दिखा)\s+(.*?)(?:\s+(under|less than|menos de|moins de|से कम|च्या खाली)\s+(?:rs\.?|₹)?(\d+(?:\.\d+)?)(?:\s+rupees?|euros?|रुपये|रुपया)?)?$/);
   if (searchMatch) {
     res.action = 'search';
     res.item = searchMatch[2].trim();
@@ -137,31 +216,38 @@ function parseCommand(text) {
     return res;
   }
   
-  const qtyMatch = lower.match(/^(add\s|buy\s|get\s|i need\s|remove\s|añadir\s|comprar\s|agregar\s|quitar\s|ajouter\s|acheter\s|enlever\s|mettre\s|quiero\s)?(?:(\d+|a|an|one|two|three|four|five|un|una|dos|tres|cuatro|cinco|deux|trois|quatre|cinq)\s+)?(.*)/);
-  if (qtyMatch) {
-    res.action = lower.includes('remove') || lower.includes('quitar') || lower.includes('enlever') ? 'remove' : 'add';
-    const q = qtyMatch[2];
-    let itemName = qtyMatch[3].trim().replace(/(remove\s|add\s|buy\s|i need\s|quitar\s|añadir\s|comprar\s|agregar\s|ajouter\s|acheter\s|enlever\s|mettre\s|quiero\s)/g, '');
-    
-    const priceMatch = itemName.match(/(.*?)(?:\s+(under|less than|menos de|moins de)\s+(?:rs\.?|₹)?(\d+(?:\.\d+)?)(?:\s+rupees?)?)?$/);
-    if (priceMatch && priceMatch[3]) {
-      itemName = priceMatch[1].trim();
-      res.maxPrice = parseFloat(priceMatch[3]);
-    }
-    
-    // Translate the item if found in dictionary
-    res.item = ITEM_DICTIONARY[itemName] || itemName;
-    
-    if (q) {
-      if (['a', 'an', 'one', 'un', 'una'].includes(q)) res.quantity = 1;
-      else if (['two', 'dos', 'deux'].includes(q)) res.quantity = 2;
-      else if (['three', 'tres', 'trois'].includes(q)) res.quantity = 3;
-      else if (['four', 'cuatro', 'quatre'].includes(q)) res.quantity = 4;
-      else if (['five', 'cinco', 'cinq'].includes(q)) res.quantity = 5;
-      else res.quantity = parseInt(q, 10) || 1;
-    }
+  // Extract numbers first (Devanagari or English digits/words)
+  let qMatch = lower.match(/(\d+|a|an|one|two|three|four|five|un|una|dos|tres|cuatro|cinco|deux|trois|quatre|cinq|एक|दो|दोन|दू|तीन|चार|पांच|पाच)\s+/);
+  if (qMatch) {
+    const q = qMatch[1];
+    if (['a', 'an', 'one', 'un', 'una', 'एक'].includes(q)) res.quantity = 1;
+    else if (['two', 'dos', 'deux', 'दो', 'दोन', 'दू'].includes(q)) res.quantity = 2;
+    else if (['three', 'tres', 'trois', 'तीन'].includes(q)) res.quantity = 3;
+    else if (['four', 'cuatro', 'quatre', 'चार'].includes(q)) res.quantity = 4;
+    else if (['five', 'cinco', 'cinq', 'पांच', 'पाच'].includes(q)) res.quantity = 5;
+    else res.quantity = parseInt(q, 10) || 1;
+  }
+
+  // Determine action by looking for removal verbs anywhere
+  if (lower.match(/(remove|quitar|enlever|हटा|काढ|निकाल)/)) {
+    res.action = 'remove';
+  } else {
+    res.action = 'add';
+  }
+
+  // Clean item name (remove action words, quantities, filler words)
+  let itemName = lower.replace(/(add|buy|get|i need|remove|añadir|comprar|agregar|quitar|ajouter|acheter|enlever|mettre|quiero|जोड़|डाल|दे|हटा|काढ|निकाल|करो|करा|करीं)/g, '');
+  itemName = itemName.replace(/(\d+|a|an|one|two|three|four|five|un|una|dos|tres|cuatro|cinco|deux|trois|quatre|cinq|एक|दो|दोन|दू|तीन|चार|पांच|पाच)\s+/g, '');
+  itemName = itemName.trim();
+  
+  // Clean price constraints (for add actions too)
+  const priceMatch = itemName.match(/(.*?)(?:\s+(under|less than|menos de|moins de|से कम|च्या खाली)\s+(?:rs\.?|₹)?(\d+(?:\.\d+)?)(?:\s+rupees?|euros?|रुपये|रुपया|में)?)?$/);
+  if (priceMatch && priceMatch[3]) {
+    itemName = priceMatch[1].trim();
+    res.maxPrice = parseFloat(priceMatch[3]);
   }
   
+  res.item = ITEM_DICTIONARY[itemName] || itemName;
   return res;
 }
 
@@ -397,6 +483,9 @@ function App() {
             <option value="en-US">English (US)</option>
             <option value="es-ES">Español</option>
             <option value="fr-FR">Français</option>
+            <option value="hi-IN">हिन्दी (Hindi)</option>
+            <option value="mr-IN">मराठी (Marathi)</option>
+            <option value="bho-IN">भोजपुरी (Bhojpuri)</option>
           </select>
         </div>
 
